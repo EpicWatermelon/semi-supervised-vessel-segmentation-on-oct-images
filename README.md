@@ -1,1 +1,1 @@
-# semi supervised vessel segmentation on octimages
+# semi supervised vessel segmentation on oct images
